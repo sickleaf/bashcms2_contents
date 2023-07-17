@@ -1,0 +1,16 @@
+links:
+- text: 'About'
+  href: '/?page=about'
+- text: 'etc'
+#  href: '/'
+  sublinks:
+          - text: '作業用BGM'
+            href: '/?page=bgm'
+
+#sociallinks:
+#- icon: 'fa-twitter-square'
+#  href: 'https:////twitter.com/sickleaf3'
+#- icon: 'fa-youtube-square'
+#  href: 'https:////www.youtube.com/playlist?list=PLZlymXLNoCMJgWqglkh0BzHEpKE-hf3fj'
+#- icon: 'fa-github-square'
+#  href: 'https:////github.com/sickleaf'
